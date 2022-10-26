@@ -1,1 +1,124 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T10:20:59.388Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="_spC1qS9xSOl8ViIjuT3" version="20.4.2" type="github"><diagram id="DtxQX2vysOrRcjV0aywS" name="FDA Online Flow">7Vttb6M4EP41kbofNgIMJP2Yl+Zuta22ak662/tycsABrgRzYNpkf/3ZYCAwpEnVENKmrdTiwSZ4nplnxh6nhyar9W8RDt07ahO/pyn2uoemPU1TFdXk/4Rkk0kMNMwETuTZslMpmHu/SD5SShPPJnGlI6PUZ15YFVo0CIjFKjIcRfS52m1J/eqnhtghQDC3sA+lf3o2czPpUBuU8t+J57j5J6vmdXZnhfPOciaxi236vCVCNz00iShl2dVqPSG+UF6ul2zcbMfd4sUiErBDBvxtaexH8M/34R+37teY/OeOgvirnMYT9hM5YfmybJNrgNhcIbJJI+ZShwbYvyml44gmgU3Exyi8Vfa5pTTkQpUL/yWMbSS6OGGUi1y28uXdmOGIjQRaXGD5OI49KxfPPD/vlr2aeJ+dKpCimCaRRV6Yd25KOHIIe6GfWQDFLZzQFWHRho+LiI+Z91R9DyxNzSn6lWjwCwnIK8C5/gTnRXCGXYKjAnBmPleRpjwknIkigFQVh2fXY2Qe4lQPz5w6qzpfcr1OqE+jdCyyDTK09VTpEX0kW3eG2gKZZqH+JxIxsn4ZAKgwOaBgKknV2lC2n0viU/M+7hbpmUpLOkYX6gDagQ6wA8/TOIAGwJlg3xeWb/r8pccLceWIq6ubvtPnXeezu/kXiKDv82AukOIRMiSpjmli73eSI5i8XrP4wYEWP2zL4nWg1NH9N6AyPmFW1QX2PScQquMT5xCgsVCLx9OYkbyx8mw7cwcSe7/wIn2UcIiQegFLp2GMe8ZUPIt7QJw5gwo4J6ABqRGUFB0BDnVQZyAD4KE3wIHagsNotHEuuUtECsqVqCmz6UgIPCuiMYmePIunq8AF5LCs78hiHg3ERRjyDnglDDtYxGGhxUvAOsc2xxo1+N51A9h6W2Br6IyjCwnsvJPEgEvkfeW40cc8MPpk0bir8IPMLtAia4/9JYb3Ddn6KR8mrqfr7cYmbwR8vluDRPPn9r1yWNqqjLsnkccVJvw8Fb5fc0FKl+ZiAiZ/SFL6HuOYG4Sk5jptzzNCB5a2JzOpmlknybyu1kKp1nUyrw07cdgdzqe26XyNJKHuIYmTOezwffB7J+ZyfvR6KFoIdYnWENBrU6r77li0viWid8+i+qdbpFsfyvtgscH5ZKn7AlAHgfIM7QV1ai/5a25vAH3rIktdLpeaZTXxq20uTKOlLBWpcMPntPyqwm3NcyZc6ejqlpuXTr/P0SuL0dLrdzj6MZ3xQF9U37pklEPvxb5XaXXIqFmdVrOmbAJyVGlQ4EF6vWJSN8tshuBBqWUW83lDMmB0GV1eY3RnGBDQu0ggVFgD+8FcUWURKXXDTvPVLGFJRGCd5U3RwBC/Qk4DtiXPfpqihJn+tBMldKXzKAHrNJ9R4pUeup/98/34g8LJ8aOEXre6I0WJIvycKEqosIqlAmv9sGWmQbXMhBq4AzVQR2slRRXuRGt9fDF4oHqJV+u4xKvCI3Baf3GxeDT5x2nxgKfetL51QXhU+aop1zkpHhrckYB18o+KRnHQJ/eOPKPsKnrkU9jeH3KciDiYiWLmj4SFCWs4fkJXXC56PJA48Rt63CcL34tdkZdR/uc7Xj7yoKRcjbH16KSJ6pfPoyr5GXYFWkHjUZX2qgBwl2qKGYYI1WGeQtSKU3cb3+PLkUgs5/asFRfZwuV2UQgKK+EWyB9TgCTxMuCS8jQFHLOeezfQqdmAXGsH/DQY3h4Iti/Wt0yjvoV2GECtMSyC8W5Cg6XnHOZcClxafWgHG6B6Pg+5sSlfae/MOKTGV+EHN3I6wm+5JOaOCszgeqEo7eDXVIE5LX5ww/NV+MHk9EP7n4pq64Wu/U+H/Hnv4pg0UuP5fylmUNt7NlSoX6NBv/WS0vH0C1cAuX4hdb1Fv6epAAP96q3plzfLb1tmm6vld1bRzf8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-26T02:52:12.504Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="ySZUc7_12pUL1DhZ2hU4" version="20.5.1" type="github">
+  <diagram id="DtxQX2vysOrRcjV0aywS" name="FDA Online Flow">
+    <mxGraphModel dx="2069" dy="1075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="Zc2tOn_K8TLh-seqhAns-1" target="Zc2tOn_K8TLh-seqhAns-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="Zc2tOn_K8TLh-seqhAns-1" target="Zc2tOn_K8TLh-seqhAns-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jyx1xotbFRQj2EDsZh4_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zc2tOn_K8TLh-seqhAns-1" target="Jyx1xotbFRQj2EDsZh4_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-1" value="Flow Runner" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="Zc2tOn_K8TLh-seqhAns-2" target="Zc2tOn_K8TLh-seqhAns-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-2" value="Caller&lt;br&gt;(E.g. SFMS)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-180" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-4" value="API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="285" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-5" value="Enrich Data (2)&lt;br&gt;Call Multiple FDA Microservices (2.x)&lt;br&gt;Call FDA Action App (3)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="210" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="Zc2tOn_K8TLh-seqhAns-6" target="Zc2tOn_K8TLh-seqhAns-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="Zc2tOn_K8TLh-seqhAns-6" target="Zc2tOn_K8TLh-seqhAns-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-6" value="Rule Based FDA&lt;br&gt;Service" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="410" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="Zc2tOn_K8TLh-seqhAns-8" target="Zc2tOn_K8TLh-seqhAns-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="Zc2tOn_K8TLh-seqhAns-8" target="Zc2tOn_K8TLh-seqhAns-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-8" value="FDA Action App" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="Zc2tOn_K8TLh-seqhAns-10" target="Zc2tOn_K8TLh-seqhAns-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="Zc2tOn_K8TLh-seqhAns-10" target="Zc2tOn_K8TLh-seqhAns-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-10" value="AI Based FDA&lt;br&gt;Service" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="410" y="315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Zc2tOn_K8TLh-seqhAns-1" target="Zc2tOn_K8TLh-seqhAns-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="320" as="sourcePoint" />
+            <mxPoint x="420" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="Zc2tOn_K8TLh-seqhAns-13" target="Zc2tOn_K8TLh-seqhAns-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-13" value="Other Apps&lt;br&gt;(Future)" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="410" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Zc2tOn_K8TLh-seqhAns-1" target="Zc2tOn_K8TLh-seqhAns-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="400" as="sourcePoint" />
+            <mxPoint x="420" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-15" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-45" y="305" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-16" value="2.a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="370" y="225" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-17" value="2.b" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="370" y="305" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-19" value="2.c" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="375" y="405" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-20" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="60" y="360" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-21" value="Aggregate Output&lt;br&gt;Compute Result&lt;br&gt;Publish to Kafka (Background)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="185" y="500" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-22" value="Data&amp;nbsp;&lt;br&gt;DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="620" y="305" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-29" value="Read&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="650" y="265" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-30" value="Config&amp;nbsp;&lt;br&gt;DB 1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="730" y="220" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-32" value="Config&amp;nbsp;&lt;br&gt;DB 2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="730" y="315" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-33" value="Config&amp;nbsp;&lt;br&gt;DB 3" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-85" y="420" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-40" value="Phase 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="710" y="510" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zc2tOn_K8TLh-seqhAns-41" value="Phase 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="710" y="540" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jyx1xotbFRQj2EDsZh4_-1" value="Flow Runner" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="410" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jyx1xotbFRQj2EDsZh4_-6" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="95" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
