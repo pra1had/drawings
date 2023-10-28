@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-28T15:27:01.072Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="Ix097RCDugCifY6gRzUP" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-28T15:42:58.047Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="_2dgCe1f4wRYKzLp9aB9" version="22.0.8" type="github">
   <diagram name="Page-1" id="-jNobJOiH2ZBGITwDeoM">
     <mxGraphModel dx="1639" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,7 +121,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wgQlKjgA8KwrXLoBbIsE-47" value="Strategy.py" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-20">
+        <mxCell id="wgQlKjgA8KwrXLoBbIsE-47" value="Strategy.py" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-20">
           <mxGeometry x="46" y="300" width="174" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wgQlKjgA8KwrXLoBbIsE-69" value="Run Next Close" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
@@ -193,7 +193,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wgQlKjgA8KwrXLoBbIsE-87" value="Strategy.py" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-69">
+        <mxCell id="wgQlKjgA8KwrXLoBbIsE-87" value="Strategy.py" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-69">
           <mxGeometry x="46" y="300" width="174" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wgQlKjgA8KwrXLoBbIsE-88" value="Combine Predictions" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
@@ -256,7 +256,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wgQlKjgA8KwrXLoBbIsE-109" value="Trade&amp;nbsp;Exec Params" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=center;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-88">
+        <mxCell id="wgQlKjgA8KwrXLoBbIsE-109" value="Trade&amp;nbsp;Exec Params" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-88">
           <mxGeometry x="57" y="310" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wgQlKjgA8KwrXLoBbIsE-111" value="Run Analysis" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
@@ -308,7 +308,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wgQlKjgA8KwrXLoBbIsE-129" value="Trade Exec Params" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-111">
+        <mxCell id="wgQlKjgA8KwrXLoBbIsE-129" value="Trade Exec Params" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-111">
           <mxGeometry x="46" y="182" width="174" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wgQlKjgA8KwrXLoBbIsE-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="wgQlKjgA8KwrXLoBbIsE-111" source="wgQlKjgA8KwrXLoBbIsE-130" target="wgQlKjgA8KwrXLoBbIsE-117">
@@ -454,7 +454,7 @@
         <mxCell id="wgQlKjgA8KwrXLoBbIsE-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wgQlKjgA8KwrXLoBbIsE-152" source="wgQlKjgA8KwrXLoBbIsE-170" target="wgQlKjgA8KwrXLoBbIsE-158">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wgQlKjgA8KwrXLoBbIsE-170" value="Strategy.py" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-152">
+        <mxCell id="wgQlKjgA8KwrXLoBbIsE-170" value="Strategy.py" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-152">
           <mxGeometry x="36" y="435" width="174" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wgQlKjgA8KwrXLoBbIsE-206" value="Combined Scrip Trades" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-152">
@@ -469,7 +469,7 @@
         <mxCell id="wgQlKjgA8KwrXLoBbIsE-209" value="Name: {scrip}, 1D" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-206">
           <mxGeometry y="90" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wgQlKjgA8KwrXLoBbIsE-211" value="INS : SL Threshold&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-152">
+        <mxCell id="wgQlKjgA8KwrXLoBbIsE-211" value="INS : SL Threshold&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-152">
           <mxGeometry x="480" y="370" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wgQlKjgA8KwrXLoBbIsE-214" value="Portfolio Trades" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-152">
