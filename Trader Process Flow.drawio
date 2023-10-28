@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-28T15:22:51.925Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="FHeThOW9osC1DZqmrMQR" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-28T15:27:01.072Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="Ix097RCDugCifY6gRzUP" version="22.0.8" type="github">
   <diagram name="Page-1" id="-jNobJOiH2ZBGITwDeoM">
     <mxGraphModel dx="1639" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -398,7 +398,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wgQlKjgA8KwrXLoBbIsE-152" value="Run Accuracy" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="-400" width="740" height="400" as="geometry" />
+          <mxGeometry x="1654" y="-670" width="740" height="670" as="geometry" />
         </mxCell>
         <mxCell id="wgQlKjgA8KwrXLoBbIsE-153" value="Portfolio Accuracy" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-152">
           <mxGeometry x="480" y="50" width="210" height="120" as="geometry" />
@@ -418,11 +418,17 @@
         <mxCell id="wgQlKjgA8KwrXLoBbIsE-210" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="wgQlKjgA8KwrXLoBbIsE-152" source="wgQlKjgA8KwrXLoBbIsE-158" target="wgQlKjgA8KwrXLoBbIsE-208">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wgQlKjgA8KwrXLoBbIsE-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wgQlKjgA8KwrXLoBbIsE-152" source="wgQlKjgA8KwrXLoBbIsE-158" target="wgQlKjgA8KwrXLoBbIsE-211">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wgQlKjgA8KwrXLoBbIsE-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="wgQlKjgA8KwrXLoBbIsE-152" source="wgQlKjgA8KwrXLoBbIsE-158" target="wgQlKjgA8KwrXLoBbIsE-216">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wgQlKjgA8KwrXLoBbIsE-158" value="Steps" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-152">
-          <mxGeometry x="310" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wgQlKjgA8KwrXLoBbIsE-159" value="Raw Prediction" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-152">
-          <mxGeometry x="46" y="20" width="174" height="120" as="geometry" />
+          <mxGeometry x="36" y="155" width="174" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wgQlKjgA8KwrXLoBbIsE-160" value="Content: 1 Min OHLC Data" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-159">
           <mxGeometry y="30" width="174" height="30" as="geometry" />
@@ -434,7 +440,7 @@
           <mxGeometry y="90" width="174" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wgQlKjgA8KwrXLoBbIsE-163" value="Low TF Data" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-152">
-          <mxGeometry x="46" y="160" width="174" height="120" as="geometry" />
+          <mxGeometry x="36" y="295" width="174" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wgQlKjgA8KwrXLoBbIsE-164" value="Content: 1 Min OHLC Data" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-163">
           <mxGeometry y="30" width="174" height="30" as="geometry" />
@@ -445,35 +451,14 @@
         <mxCell id="wgQlKjgA8KwrXLoBbIsE-166" value="Name: {scrip}, 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-163">
           <mxGeometry y="90" width="174" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wgQlKjgA8KwrXLoBbIsE-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wgQlKjgA8KwrXLoBbIsE-152" source="wgQlKjgA8KwrXLoBbIsE-160" target="wgQlKjgA8KwrXLoBbIsE-158">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="276" y="65" />
-              <mxPoint x="276" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wgQlKjgA8KwrXLoBbIsE-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wgQlKjgA8KwrXLoBbIsE-152" source="wgQlKjgA8KwrXLoBbIsE-165" target="wgQlKjgA8KwrXLoBbIsE-158">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="246" y="220" />
-              <mxPoint x="246" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wgQlKjgA8KwrXLoBbIsE-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="wgQlKjgA8KwrXLoBbIsE-152" source="wgQlKjgA8KwrXLoBbIsE-170" target="wgQlKjgA8KwrXLoBbIsE-158">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="276" y="340" />
-              <mxPoint x="276" y="220" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="wgQlKjgA8KwrXLoBbIsE-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wgQlKjgA8KwrXLoBbIsE-152" source="wgQlKjgA8KwrXLoBbIsE-170" target="wgQlKjgA8KwrXLoBbIsE-158">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wgQlKjgA8KwrXLoBbIsE-170" value="Strategy.py" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-152">
-          <mxGeometry x="46" y="300" width="174" height="80" as="geometry" />
+          <mxGeometry x="36" y="435" width="174" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wgQlKjgA8KwrXLoBbIsE-206" value="Combined Scrip Trades" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-152">
-          <mxGeometry x="480" y="220" width="210" height="120" as="geometry" />
+          <mxGeometry x="480" y="200" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wgQlKjgA8KwrXLoBbIsE-207" value="Content: Daily OHLC Data" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-206">
           <mxGeometry y="30" width="210" height="30" as="geometry" />
@@ -483,6 +468,27 @@
         </mxCell>
         <mxCell id="wgQlKjgA8KwrXLoBbIsE-209" value="Name: {scrip}, 1D" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-206">
           <mxGeometry y="90" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wgQlKjgA8KwrXLoBbIsE-211" value="INS : SL Threshold&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-152">
+          <mxGeometry x="480" y="370" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wgQlKjgA8KwrXLoBbIsE-214" value="Portfolio Trades" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-152">
+          <mxGeometry x="480" y="510" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wgQlKjgA8KwrXLoBbIsE-215" value="Content: Daily OHLC Data" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-214">
+          <mxGeometry y="30" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wgQlKjgA8KwrXLoBbIsE-216" value="Location:&amp;nbsp;base-data-dir-path" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-214">
+          <mxGeometry y="60" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wgQlKjgA8KwrXLoBbIsE-217" value="Name: {scrip}, 1D" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wgQlKjgA8KwrXLoBbIsE-214">
+          <mxGeometry y="90" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wgQlKjgA8KwrXLoBbIsE-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wgQlKjgA8KwrXLoBbIsE-152" source="wgQlKjgA8KwrXLoBbIsE-160" target="wgQlKjgA8KwrXLoBbIsE-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wgQlKjgA8KwrXLoBbIsE-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wgQlKjgA8KwrXLoBbIsE-152" source="wgQlKjgA8KwrXLoBbIsE-165" target="wgQlKjgA8KwrXLoBbIsE-158">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
